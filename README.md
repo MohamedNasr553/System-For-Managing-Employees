@@ -1,5 +1,5 @@
 ## Project Name: 
-    System-For-Managing-Employees
+    System For Managing Employees
 
 ## Project Description:
     Employee Management System (EMS) for a company. An EMS should have the option to add an employee, view all employees’ profiles, delete a profile, update an employee     
